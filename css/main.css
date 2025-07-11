@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #634dff;
+  background: #ffacd0;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2386,13 +2386,6 @@ embed {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-body {
-  background-image: url("/images/background-cloud.png.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  background-size: 100% 100%;
 }
 .post {
   margin-top: 60px;
